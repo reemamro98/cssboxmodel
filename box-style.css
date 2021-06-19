@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+h1,p {
+    background-color: plum;
+}
+
+em ,strong{
+
+    background-color: gray;
+}
+
+h1{
+    padding: 20px;
+    border: 10px solid blueviolet;
+   
+}
+
+p {
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+strong{
+    margin: 50px;
+}
+
+div{
+    width: 200px;
+    box-sizing: border-box;
+    margin: 20px auto;
+    color: #FFF;
+  background-color: #5995DA;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+}
